@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1630582719290,
+  "timestamp": 1630590910574,
   "index": "/ryobi-hp-static/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ryobi-hp-static/favicon.ico",
         "/ryobi-hp-static/index.html",
-        "/ryobi-hp-static/main.f68c71b403947d92cfca.js",
+        "/ryobi-hp-static/main.3543e6db0cea4230cc68.js",
         "/ryobi-hp-static/manifest.webmanifest",
         "/ryobi-hp-static/polyfills.a763d38cdde05b96618d.js",
         "/ryobi-hp-static/runtime.1c96e5b345e576e9dd09.js",
@@ -29,7 +29,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ryobi-hp-static/arrow-down.1b2fb4dd7149c2e91e23.svg",
         "/ryobi-hp-static/assets/arrow-down.svg",
         "/ryobi-hp-static/assets/batteries.png",
         "/ryobi-hp-static/assets/battery.png",
@@ -55,18 +54,13 @@
         "/ryobi-hp-static/assets/saw-outline-pop.png",
         "/ryobi-hp-static/assets/saw-outline.png",
         "/ryobi-hp-static/assets/saw.png",
-        "/ryobi-hp-static/assets/subtract-bg.svg",
-        "/ryobi-hp-static/cross-fill-white.6778fade2d0279978457.svg",
-        "/ryobi-hp-static/cross-fill.96ae2892ff37ff03cb62.svg",
-        "/ryobi-hp-static/logo2.822a5cf802b93217f9c0.svg",
-        "/ryobi-hp-static/subtract-bg.3db2d456d9cca65f04ad.svg"
+        "/ryobi-hp-static/assets/subtract-bg.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ryobi-hp-static/arrow-down.1b2fb4dd7149c2e91e23.svg": "c18959e14df209f56258d60108eba61830c0c661",
     "/ryobi-hp-static/assets/arrow-down.svg": "c18959e14df209f56258d60108eba61830c0c661",
     "/ryobi-hp-static/assets/batteries.png": "6e5dfe30b74fbcfe4a4739134d048a0541d0faab",
     "/ryobi-hp-static/assets/battery.png": "2c80a2e1b686f5862da31b5a2fbeb557d9dc4311",
@@ -93,17 +87,13 @@
     "/ryobi-hp-static/assets/saw-outline.png": "e1473eaea53270bc6f681e7d1d54ec1ac6d1b438",
     "/ryobi-hp-static/assets/saw.png": "f388fcf73e2351c561d1233a703c53ec0f9e97f1",
     "/ryobi-hp-static/assets/subtract-bg.svg": "769f55fd9498dc0ad3b8408d81e0d6efe5bfaec6",
-    "/ryobi-hp-static/cross-fill-white.6778fade2d0279978457.svg": "0175217cb6ef83724ac8997d0f991963f42ba85c",
-    "/ryobi-hp-static/cross-fill.96ae2892ff37ff03cb62.svg": "c3d422d7ad8c59743bf159f5e489fa3fc7b73af0",
     "/ryobi-hp-static/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ryobi-hp-static/index.html": "9c134b76c0f96f139cd931b6a578f0bcb6635cc5",
-    "/ryobi-hp-static/logo2.822a5cf802b93217f9c0.svg": "5785f5335aa92ba3e2006d645994be8b4be898b4",
-    "/ryobi-hp-static/main.f68c71b403947d92cfca.js": "36454089871ff04500f33ef1a719fca9a3e928a6",
+    "/ryobi-hp-static/index.html": "247406e1a000046f9577e9ff4693a3aff36a24da",
+    "/ryobi-hp-static/main.3543e6db0cea4230cc68.js": "266b02b7e240ee9f8ef6a86a2acd3924680c238e",
     "/ryobi-hp-static/manifest.webmanifest": "e4cc1ceb6070b456deb80e98a77f4e408ba3ee0c",
     "/ryobi-hp-static/polyfills.a763d38cdde05b96618d.js": "80f54e0eab1b2ff3c04ed6d2dd8fb8e627683a3a",
     "/ryobi-hp-static/runtime.1c96e5b345e576e9dd09.js": "4d2815eaef8bdd17790f431560c61bc7e56fb2f5",
-    "/ryobi-hp-static/styles.041cc30a2437a9559687.css": "ce2d1c27bd0137c868196a48eaaefb89175908ff",
-    "/ryobi-hp-static/subtract-bg.3db2d456d9cca65f04ad.svg": "769f55fd9498dc0ad3b8408d81e0d6efe5bfaec6"
+    "/ryobi-hp-static/styles.041cc30a2437a9559687.css": "ce2d1c27bd0137c868196a48eaaefb89175908ff"
   },
   "navigationUrls": [
     {
